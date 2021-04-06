@@ -1,8 +1,3 @@
-All of the code and data that use in the assignment is available on my dropbox. Here is the downloading link below.
-In case of improper transmission, I set a security code, which is my GT account: cpeng78
-
-    https://www.dropbox.com/sh/76vv9akhzravakk/AAANxYp0MhmEg11Jwk0Av59Ea?dl=0
-
 The file folder contains two code files, and a data folder.
 The code file dataset1.ipynb and dataset2.ipynb . One is to process with the first dataset, and the other is for another dataset. The code is written by Jupyter notebook.
 
