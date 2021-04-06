@@ -1,8 +1,3 @@
-All of the code and data that use in the assignment is available on my dropbox. Here is the downloading link below.
-In case of improper transmission, I set a security code, which is my GT account: cpeng78
-
-    https://www.dropbox.com/sh/emvi9jvwz8oymlb/AAB7271wh27kCQ6IyKNmFMxNa?dl=0
-
 The file folder contains four code files, and a data folder.
 The code file Flip Flop.ipynb, Travelling Sales Person.ipynb, Knapsack Problem.ipynb, and Neural Network.ipynb. The last one is to process with the dataset in the data folder, and the others are no need for data. The code is written by Jupyter notebook.
 
